@@ -1,14 +1,14 @@
-### Hi there, I'm Ratik Singh - aka [SINGHA] 👋
+### Hi there, I'm Ratik Singh - aka SINGHA 👋
 
-## I'm a Full Stack Developer,Baller, and Open source Contributor and yaa i tried singing sometimes but .... nevermind!
+## I'm a Full-Stack Developer, Baller, and open-source Contributor. And yeah, I tried singing sometimes, but... never mind!
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working in Infosys as a System Engineer 
+- 🔭 I’m currently working at Infosys as a System Engineer 
 - 🌱 I’m currently advancing myself in MERN MEAN 
 - 👯 I’m looking to collaborate with other  content creators
-- 🤔  GOALS: Contribute more to open source Projects
-- 💬 Ask me about any Questions Related to Front End Technology
+- 🤔  GOALS: Contribute more to open-source Projects
+- 💬 Ask me about any Questions Related to front-end technology
 
 
 ## Connect with me:
