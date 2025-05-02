@@ -17,7 +17,7 @@
 
 <h3> 🧑 I'm a Programmer, Developer, and Baller!!</h3>
 
-- 🔭 I’m currently working on [Infosys]
+- 🔭 I’m a Senior System  Engineer at @Infosys
 
 - 🌱 I’m currently learning **Everything 🤣**
 
