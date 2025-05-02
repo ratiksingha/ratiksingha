@@ -26,3 +26,8 @@
 - 📫 How to reach me **singhratik07@gmail.com**
 
 - ⚡ Fun fact **I love to code**
+
+<p>
+   <h2>My Leetcode Summary</h2>
+   ![LeetCode Stats](https://leetcode.card.workers.dev/ratikkumarsingh?theme=dark&font=patrick_hand&extension=null)
+</p>
