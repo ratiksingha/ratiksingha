@@ -29,7 +29,7 @@
 
 <p align="center">
     <h2>My Leetcode Summary</h2>
-  
+  </p>
    ![LeetCode Stats](https://leetcard.jacoblin.cool/ratikkumarsingh?theme=light&font=Anybody&ext=heatmap)
-</p>
+
 
