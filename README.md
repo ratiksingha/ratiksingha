@@ -1,24 +1,28 @@
-### Hi there, I'm Ratik Singh - aka SINGHA 👋
-
-## I'm a Full-Stack Developer, Baller, and open-source Contributor. And yeah, I tried singing sometimes, but... never mind!
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working at Infosys as a System Engineer 
-- 🌱 I’m currently advancing myself in MERN MEAN 
-- 👯 I’m looking to collaborate with other  content creators
-- 🤔  GOALS: Contribute more to open-source Projects
-- 💬 Ask me about any Questions Related to front-end technology
+<h1 align="center"> नमस्ते (Namaste) 🙏🏻 , I'm Ratik Singh <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
+<!-- <img src="https://user-images.githubusercontent.com/54361799/108709847-4409a300-7539-11eb-8481-274ec80833a1.png" style='margin-right:"1200px";margin-left:250px;'/> -->
+<img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png"/>
 
 
-## Connect with me:
-
-
-<p align="left">
-
-<a href="https://in.linkedin.com/in/ratiksingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ratiksingh" height="30" width="40" /></a>
-<a href="https://instagram.com/whoisisngha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="whoissingha" height="30" width="40" /></a>
+## 💡 Connect with me :
+<p align="left"> 
+<a href="https://twitter.com/whonickumar" target="blank"><img src="https://img.shields.io/twitter/follow/whonickumar?logo=twitter&style=for-the-badge" alt="Harikrushn9" /></a>&nbsp
+<a href="https://www.linkedin.com/in/ratiksingh"><img src="https://img.shields.io/badge/-ratiksingh-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>&nbsp
+&nbsp
+   <a href="mailto:singhratik07@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:singhratik07@gmail.com" />
+  </a>
 </p>
-<br />
 
----
+<img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+<h3> 🧑 I'm a Programmer, Developer, and Baller!!</h3>
+
+- 🔭 I’m currently working on [Infosys]
+
+- 🌱 I’m currently learning **Everything 🤣**
+
+- 💬 Ask me about **React, JavaScript, Golang, Java, System Design **
+
+- 📫 How to reach me **singhratik07@gmail.com**
+
+- ⚡ Fun fact **I love to code**
