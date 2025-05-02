@@ -27,7 +27,10 @@
 
 - ⚡ Fun fact **I love to code**
 
-<p>
-   <h2>My Leetcode Summary</h2>
-   ![LeetCode Stats](https://leetcode.card.workers.dev/ratikkumarsingh?theme=dark&font=patrick_hand&extension=null)
+<p align="center">
+    <h2>My Leetcode Summary</h2>
+  <a href="https://github.com/JacobLinCool/LeetCode-Stats-Card" target="_blank">
+    <img title="Ratik Singh LeetCode Stats" alt="Ratik Singh LeetCode Stats" src="https://leetcode.card.workers.dev/ratikkumarsingh?theme=dark&font=patrick_hand&extension=null" />
+  </a>
 </p>
+
