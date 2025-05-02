@@ -28,8 +28,8 @@
 - ⚡ Fun fact **I love to code**
 
 <p align="center">
-    <h2>My Leetcode Summary</h2>
-  </p>
+    <h2 align="center">My Leetcode Summary</h2>
+ 
    ![LeetCode Stats](https://leetcard.jacoblin.cool/ratikkumarsingh?theme=light&font=Anybody&ext=heatmap)
 
-
+ </p>
