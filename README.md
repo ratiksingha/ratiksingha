@@ -30,6 +30,6 @@
 <p align="center">
     <h2 align="center">My Leetcode Summary</h2>
  
-   ![LeetCode Stats](https://leetcard.jacoblin.cool/ratikkumarsingh?theme=light&font=Anybody&ext=heatmap)
+   ![LeetCode Stats](https://leetcard.jacoblin.cool/ratikingh?theme=light&font=Anybody&ext=heatmap)
 
  </p>
