@@ -1,8 +1,5 @@
-<picture>
-  <source srcset="https://github.com/user-attachments/assets/ca0f395c-5446-4ff4-a8d0-2173e0967131" media="(prefers-color-scheme: dark)" />
-  <source srcset="https://github.com/user-attachments/assets/77a29409-f04c-4f09-ba76-f6d8c10da8ef" media="(prefers-color-scheme: light)" />
-  <img src="https://github.com/user-attachments/assets/77a29409-f04c-4f09-ba76-f6d8c10da8ef" alt="Theme-aware image" />
-</picture>
+![Light Mode](https://raw.githubusercontent.com/your-username/your-repo/main/assets/light.png#gh-light-mode-only)
+![Dark Mode](https://raw.githubusercontent.com/your-username/your-repo/main/assets/dark.png#gh-dark-mode-only)
 <p align="center">
   <b>A software engineer who loves building products.</b><br> <br>
   <a href="https://www.linkedin.com/in/ratiksingh/" target="_blank">LinkedIn</a> |
