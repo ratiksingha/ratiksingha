@@ -1,4 +1,4 @@
-![Image](https://github.com/user-attachments/assets/f56c2af3-bfd1-4c17-8e8c-b25e71b0122a)
+![Image](https://github.com/user-attachments/assets/ecefdb0a-0f90-4533-85e6-98d215ffb110)
 <p align="center">
   <b>A software engineer who loves building products.</b><br> <br>
   <a href="https://www.linkedin.com/in/ratiksingh/" target="_blank">LinkedIn</a> |
