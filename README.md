@@ -1,4 +1,8 @@
-![Image](https://github.com/user-attachments/assets/ecefdb0a-0f90-4533-85e6-98d215ffb110)
+<picture>
+  <source srcset="https://github.com/user-attachments/assets/ca0f395c-5446-4ff4-a8d0-2173e0967131" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://github.com/user-attachments/assets/77a29409-f04c-4f09-ba76-f6d8c10da8ef" media="(prefers-color-scheme: light)" />
+  <img src="https://github.com/user-attachments/assets/77a29409-f04c-4f09-ba76-f6d8c10da8ef" alt="Theme-aware image" />
+</picture>
 <p align="center">
   <b>A software engineer who loves building products.</b><br> <br>
   <a href="https://www.linkedin.com/in/ratiksingh/" target="_blank">LinkedIn</a> |
